@@ -1,0 +1,49 @@
+header,
+footer {
+  display: flex;
+  background-color: #8a2be2;
+  padding: 1em;
+  text-align: center;
+  margin-top: 1em;
+  border-radius: 25px;
+  align-items: center;
+}
+
+header img {
+  width: 30%;
+  border-radius: 25px;
+}
+
+header h1 {
+  width: 60%;
+}
+
+header,
+footer {
+  font-family: "Roboto Slab", serif;
+  color: #e3c0d3;
+}
+
+body {
+  align-self: center;
+  width: 60%;
+  margin: auto;
+}
+
+footer {
+  display: block;
+  text-align: center;
+  align-items: center;
+}
+
+p {
+  font-style: italic;
+}
+
+#lastUpdated {
+  color: #f3f36c;
+}
+
+table {
+  padding-left: 1em;
+}
