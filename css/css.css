@@ -21,7 +21,7 @@ header h1 {
 header,
 footer {
   font-family: "Roboto Slab", serif;
-  color: #e3c0d3;
+  color: #A88A42;
 }
 
 body {
@@ -41,7 +41,7 @@ p {
 }
 
 #lastUpdated {
-  color: #f3f36c;
+  color: #F5CC6C;
 }
 
 table {
