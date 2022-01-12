@@ -16,13 +16,13 @@ header img {
 
 header h1 {
   width: 60%;
+  font-size: 2.5em;
 }
 
 header,
 footer {
   font-family: "Roboto Slab", serif;
   color: #8a2be2;
-  ;
 }
 
 body {
@@ -35,6 +35,7 @@ footer {
   display: block;
   text-align: center;
   align-items: center;
+  font-size: 1.5em;
 }
 
 p {
