@@ -1,7 +1,7 @@
 header,
 footer {
   display: flex;
-  background-color: #8a2be2;
+  background-color: #F5CC6C;
   padding: 1em;
   text-align: center;
   margin-top: 1em;
@@ -21,7 +21,7 @@ header h1 {
 header,
 footer {
   font-family: "Roboto Slab", serif;
-  color: #F5CC6C;
+  color: #8a2be2;
   ;
 }
 
@@ -29,6 +29,8 @@ body {
   align-self: center;
   width: 60%;
   margin: auto;
+  background-color: black;
+  color: white;
 }
 
 footer {
@@ -41,9 +43,10 @@ p {
   font-style: italic;
 }
 
-#lastUpdated {
-  color: #F5CC6C;
-}
+main {
+    padding-left: 1.5em;
+    padding-right: 1.5em;}
+
 
 table {
   padding-left: 1em;
